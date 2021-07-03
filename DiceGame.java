@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Track4 {
+public class DiceGame {
     public static void main(String[] args) {
         Random rand = new Random();
         int die1=1;
